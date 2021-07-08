@@ -1,0 +1,22 @@
+/* Extra small devices (phones, 600px and down) */
+.logo{
+  width:100%;
+  text-align: center;
+}
+.manu{
+  width: 100%;
+}
+.manu ul{
+  padding: 0px;
+  margin: 0px;
+}
+.manu ul li{
+  float: none;
+  padding: 5px ;
+}
+.manu ul li a{
+
+  background: #000;
+  display: block;
+  padding: 10px 20px;
+}

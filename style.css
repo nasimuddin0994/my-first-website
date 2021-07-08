@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width:1170px;
+    margin: 0 auto;
+}
+header{
+    min-height: 30px;
+    background: rgb(11, 216, 21);
+    text-align: center;
+}
+.body_area{
+    min-height: 500px;
+    background: #ddd;
+    font-size: 18px;
+    padding: 10px;
+}
+footer{
+    min-height: 30px;
+    background: rgb(11, 216, 21);
+    text-align: center;
+}
+footer p{
+    font-size: 20px;
+    font-weight: 600;
+}
